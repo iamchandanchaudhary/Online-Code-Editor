@@ -101,4 +101,4 @@ Expected response:
 
 ## License
 
-MIT — see [LICENSE](/home/runner/work/Online-Code-Editor/Online-Code-Editor/LICENSE).
+MIT — see [LICENSE](LICENSE).
